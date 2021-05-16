@@ -1,0 +1,11 @@
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    flex: 0.35;
+}
+.sidebar-chats-container{
+    flex:1;
+    background-color: white;
+    overflow-y: scroll;
+    
+}
